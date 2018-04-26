@@ -2,7 +2,7 @@
   "name": "asksite",
   "version": "1.0.0",
   "description": "Public repository of askcreative.space",
-  "author": "Amy <arashi@tutanota.de>",
+  "author": "Amy <amy@askcreative.space>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
