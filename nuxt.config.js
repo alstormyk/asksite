@@ -1,3 +1,5 @@
+require('babel-polyfill')
+
 module.exports = {
   /*
   ** Headers of the page
@@ -16,7 +18,7 @@ module.exports = {
   /*
   ** Customize the progress bar color
   */
-  loading: { color: '#3B8070' },
+  loading: { color: '#ac3b61' },
   /*
   ** Build configuration
   */
@@ -34,5 +36,28 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  /*
+  ** Modules
+  */
+  modules: [
+    '@nuxtjs/pwa',
+    '@nuxtjs/sitemap',
+    'nuxt-bulma-slim',
+    'nuxtent',
+    'nuxt-netlify-cms'
+  ],
+  sitemap: {
+    hostname: 'https://asksite.askcreative.space',
+    generate: true, // Enable me when using nuxt generate
+    exclude: [
+      '/admin',
+      '/successMessage',
+      '/successNews'
+    ]
+  },
+  plugins: [
+    // ssr: false to only include it on client-side
+    { src: '~/plugins/vee-validate.js' }
+  ],
 }

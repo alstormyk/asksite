@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Public repository of askcreative.space",
   "author": "Amy <amy@askcreative.space>",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -13,13 +13,24 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "nuxt": "^1.0.0"
+    "@nuxtjs/axios": "^4.5.2",
+    "@nuxtjs/pwa": "^2.0.8",
+    "@nuxtjs/sitemap": "^0.1.1",
+    "bulma-timeline": "^2.0.1",
+    "nuxt": "^1.4.0",
+    "nuxt-bulma-slim": "^0.3.2",
+    "nuxtent": "^1.4.1",
+    "prismjs": "^1.14.0",
+    "vee-validate": "^2.0.8"
   },
   "devDependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.15.0",
-    "eslint-friendly-formatter": "^3.0.0",
-    "eslint-loader": "^1.7.1",
-    "eslint-plugin-vue": "^4.0.0"
+    "babel-eslint": "^8.2.3",
+    "babel-polyfill": "^6.26.0",
+    "eslint": "^4.19.1",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.0.0",
+    "eslint-plugin-vue": "^4.5.0",
+    "netlify-cms": "^1.7.0",
+    "nuxt-netlify-cms": "^3.0.0"
   }
 }
