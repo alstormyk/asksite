@@ -15,6 +15,11 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
+  css: [
+    '~assets/css/style.css',
+    '~/node_modules/bulma-timeline/dist/bulma-timeline.min.css',
+    '~/node_modules/prismjs/themes/prism.css'
+  ],
   /*
   ** Customize the progress bar color
   */

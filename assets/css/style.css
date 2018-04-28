@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'MerriweatherSans';
+  src: url('~assets/fonts/Merriweather-Sans.woff2') format('woff2'),
+       url('~assets/fonts/Merriweather-Sans.woff') format('woff');
+  font-style: normal;
+}
+@font-face {
+font-family: 'MerriweatherSans';
+src: url('~assets/fonts/Merriweather-Sans-Italic.woff2') format('woff2'),
+     url('~assets/fonts/Merriweather-Sans-Italic.woff') format('woff');
+font-style: italic;
+}
+@font-face {
+  font-family: 'Merriweather';
+  src: url('~/fonts/Merriweather-Regular.woff2') format('woff2'),
+       url('~/fonts/Merriweather-Regular.woff') format('woff');
+  font-style: normal;
+}
+@font-face {
+font-family: 'Merriweather';
+src: url('~/fonts/Merriweather-Italic.woff2') format('woff2'),
+     url('~/onts/Merriweather-Italic.woff') format('woff');
+font-style: italic;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Merriweather', Georgia, Times, serif;
+  font-size: 100%;
+}
+html {
+  background-color: #fefcfb;
+}
+body,
+button,
+input,
+textarea {
+  font-family: 'MerriweatherSans', -apple-system, '.SFNSText-Regular', 'San Francisco', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif;
+}
+code {
+  -moz-osx-font-smoothing: auto;
+  -webkit-font-smoothing: auto;
+  font-family: Monaco, Consolas, 'Lucida Console', 'Liberation Mono', Courier, monospace;
+}
+body {
+  font-family: 'MerriweatherSans', -apple-system, '.SFNSText-Regular', 'San Francisco', 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif;
+  color: #413e3c;
+}
+.content h1,
+.content h2,
+.content h3,
+.content h4,
+.content h5 {
+  font-family: 'Merriweather', Georgia, Times, serif;
+  color: #413e3c;
+}
