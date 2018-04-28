@@ -44,6 +44,6 @@ module.exports = {
   ],
   api: {
     baseURL: 'http://localhost:3000',
-    browserBaseURL: 'http://localhost:3000' /*'https://asksite.netlify.com'*/
+    browserBaseURL: 'https://asksite.netlify.com'
   }
 }

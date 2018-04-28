@@ -1,8 +1,8 @@
 backend:
   name: github
   repo: askcreative/asksite # Change to your repo
- # url: https://asksite.netlify.com # Change to your repo
-  url: http://localhost:3000
+  url: https://asksite.netlify.com # Change to your repo
+  #url: http://localhost:3000
 
 media_folder: "static/uploads"
 
