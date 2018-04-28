@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: LavenderGrey/ask # Change to your repo
-  url: https://askcreative.space # Change to your repo
+  repo: askcreative/asksite # Change to your repo
+  url: https://asksite.netlify.com # Change to your repo
   #url: http://localhost:3000
 
 media_folder: "static/uploads"

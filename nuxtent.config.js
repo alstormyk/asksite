@@ -44,6 +44,6 @@ module.exports = {
   ],
   api: {
     baseURL: 'http://localhost:3000',
-    browserBaseURL: 'https://www.asksite.askcreative.space'
+    browserBaseURL: 'https://asksite.netlify.com'
   }
 }
