@@ -17,6 +17,8 @@
     "@nuxtjs/pwa": "^2.0.8",
     "@nuxtjs/sitemap": "^0.1.1",
     "bulma-timeline": "^2.0.1",
+    "markdown-it-emoji": "^1.4.0",
+    "markdown-it-link-attributes": "^2.1.0",
     "nuxt": "^1.4.0",
     "nuxt-bulma-slim": "^0.3.2",
     "nuxtent": "^1.4.1",
