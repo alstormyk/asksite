@@ -4878,9 +4878,9 @@ nuxt-bulma-slim@^0.3.2:
     purgecss "^0.20.0"
     sass-loader "^6.0.6"
 
-nuxt-netlify-cms@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/nuxt-netlify-cms/-/nuxt-netlify-cms-3.0.0.tgz#1026e7e09c2ff3fdbe388f0fade8c62af00d1d64"
+nuxt-netlify-cms@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/nuxt-netlify-cms/-/nuxt-netlify-cms-3.0.1.tgz#cc902198babf3c5063743a9deef22752d3a964aa"
   dependencies:
     js-yaml "^3.10.0"
     needlepoint "^1.0.5"
@@ -7905,9 +7905,9 @@ vary@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
 
-vee-validate@^2.0.8:
-  version "2.0.8"
-  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-2.0.8.tgz#5fe52e1158d418736fe65807517ef5a0998d9c87"
+vee-validate@^2.0.9:
+  version "2.0.9"
+  resolved "https://registry.yarnpkg.com/vee-validate/-/vee-validate-2.0.9.tgz#948a96572d9e2369d5cb217a84269ecf6c1f9a11"
 
 vendors@^1.0.0:
   version "1.0.2"

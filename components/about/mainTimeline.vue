@@ -52,7 +52,6 @@
         <div class="timeline-content">
           <p class="heading">2016</p>
           <p>Snow</p>
-          <img src="">
         </div>
       </div>
       <div class="timeline-item">
@@ -110,7 +109,6 @@
         <div class="timeline-content">
           <p class="heading">2003</p>
           <p>Ash</p>
-          <img src="">
         </div>
         <span class="tag blue">
         </span>

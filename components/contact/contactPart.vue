@@ -65,7 +65,6 @@
           <h1>First Name, Owner
             <hr>
             <p>
-              <img src="">
             </p>
           </h1>
           <p>

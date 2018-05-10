@@ -5,57 +5,57 @@
       </div>
       <div class="column">
         <a href="https://joindiaspora.com" target="_blank">
-          <img src="" alt="diaspora logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="diaspora logo">
         </a>
       </div>
       <div class="column">
         <a href="https://vk.com" target="_blank">
-          <img src="" alt="vkontakte logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="vkontakte logo">
         </a>
       </div>
       <div class="column">
         <a href="https://www.facebook.com" target="_blank">
-          <img src="" alt="facebook logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="facebook logo">
         </a>
       </div>
       <div class="column">
         <a href="https://twitter.com" target="_blank">
-          <img src="" alt="twitter logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="twitter logo">
         </a>
       </div>
       <div class="column">
         <a href="https://www.flickr.com" target="_blank">
-          <img src="" alt="flickr logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="flickr logo">
         </a>
       </div>
       <div class="column">
         <a href="https://ok.ru" target="_blank">
-          <img src="" alt="odnoklassniki logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="odnoklassniki logo">
         </a>
       </div>
       <div class="column">
         <a href="https://github.com" target="_blank">
-          <img src="" alt="github logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="github logo">
         </a>
       </div>
       <div class="column">
         <a href="https://www.linkedin.com" target="_blank">
-          <img src="" alt="linkedin logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="linkedin logo">
         </a>
       </div>
       <div class="column">
         <a href="https://plus.google.com" target="_blank">
-          <img src="" alt="google-plus logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="google-plus logo">
         </a>
       </div>
       <div class="column">
         <a href="https://timeline.line.me" target="_blank">
-          <img src="" alt="line logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="line logo">
         </a>
       </div>
       <div class="column">
         <a href="https://www.instagram.com" target="_blank">
-          <img src="~" alt="instagram logo">
+          <img src="~/assets/img/logo_nuxt.png" alt="instagram logo">
         </a>
       </div>
       <div class="column">

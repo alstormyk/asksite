@@ -4,7 +4,7 @@
       <div class="column slimmed">
         <div class="outer">
           <div class="inner">
-            <img class="upper" src="">
+            <img class="upper">
           </div>
         </div>
       </div>
