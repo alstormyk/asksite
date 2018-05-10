@@ -23,7 +23,7 @@
     "nuxt-bulma-slim": "^0.3.2",
     "nuxtent": "^1.4.1",
     "prismjs": "^1.14.0",
-    "vee-validate": "^2.0.8"
+    "vee-validate": "^2.0.9"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
@@ -33,6 +33,6 @@
     "eslint-loader": "^2.0.0",
     "eslint-plugin-vue": "^4.5.0",
     "netlify-cms": "^1.7.0",
-    "nuxt-netlify-cms": "^3.0.0"
+    "nuxt-netlify-cms": "^3.0.1"
   }
 }

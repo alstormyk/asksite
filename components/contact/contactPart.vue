@@ -65,7 +65,7 @@
           <h1>First Name, Owner
             <hr>
             <p>
-              <img src="https://res.cloudinary.com/askcreative-space/image/upload/h_150,c_fit/AmyCVpic_ocwe7o.jpg">
+              <img src="">
             </p>
           </h1>
           <p>

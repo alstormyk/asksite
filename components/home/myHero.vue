@@ -2,7 +2,7 @@
   <div class="hero is-fullheight">
   <div class="hero-body">
     <div class="container">
-      <img class="logo" src="~assets/img/logo.png" alt="A cat peeking through a capital A.">
+      <img class="logo" src="" alt="A cat peeking through a capital A.">
       <h1 class="title big-size">
         Title
       </h1>

@@ -23,7 +23,7 @@
         <div class="tile is-3 is-vertical is-parent">
           <div class="tile is-child box hello">
             <Card url="/about">
-              <img src="~assets/img/frame.png" alt="About" slot="image" />
+              <img src="" alt="About" slot="image" />
               <h2>About</h2>
               <hr>
             </Card>
@@ -32,7 +32,7 @@
           </div>
           <div class="tile is-child box hello">
             <card url="/shop">
-              <img src="~assets/img/frame.png" alt="Shop" slot="image" /> Shop
+              <img src="" alt="Shop" slot="image" /> Shop
               <hr>
             </card>
           </div>
@@ -42,7 +42,7 @@
           </div>
           <div class="tile is-child box hello">
             <card url="/gallery">
-              <img src="~assets/img/frame.png" alt="Gallery" slot="image" /> Gallery
+              <img src="" alt="Gallery" slot="image" /> Gallery
               <hr>
             </card>
           </div>
@@ -52,7 +52,7 @@
         <div class="tile is-3 is-vertical is-parent">
           <div class="tile is-child box hello">
             <card url="/blog">
-              <img src="~assets/img/frame.png" alt="Blog" slot="image" /> Blog
+              <img src="" alt="Blog" slot="image" /> Blog
               <hr>
             </card>
           </div>
@@ -60,7 +60,7 @@
           </div>
           <div class="tile is-child box hello">
             <card url="/contact">
-              <img src="~assets/img/frame.png" alt="Contact" slot="image" /> Contact
+              <img src="" alt="Contact" slot="image" /> Contact
               <hr>
             </card>
           </div>
@@ -112,35 +112,35 @@ img {
 .kitty0:hover {
   transition: 2s ease-in-out;
   background-image: linear-gradient(to bottom, rgba(231, 151, 178, 0.5), rgba(108, 7, 41, 0.5)),
-  url(~assets/img/logo-pattern.png);
+  url();
   background-size: 5%;
   color: transparent;
 } 
 .kitty1:hover {
   transition: 2s ease-in-out;
   background-image: linear-gradient(to bottom, rgba(231, 151, 178, 0.5), rgba(108, 7, 41, 0.5)),
-  url(~assets/img/logo1.png);
+  url();
   background-size: 85%;
   color: transparent;
 } 
 .kitty2:hover {
   transition: 2s ease-in-out;
   background-image: linear-gradient(to bottom, rgba(231, 151, 178, 0.5), rgba(108, 7, 41, 0.5)),
-  url(~assets/img/logo2.png);
+  url();
   background-size: 55%;
   color: transparent;
 }
 .kitty3:hover {
   transition: 2s ease-in-out;
   background-image: linear-gradient(to bottom, rgba(231, 151, 178, 0.5), rgba(108, 7, 41, 0.5)),
-  url(~assets/img/logo3.png);
+  url();
   background-size: 55%;
   color: transparent;
 }
 .kitty4:hover {
   transition: 2s ease-in-out;
   background-image: linear-gradient(to bottom, rgba(231, 151, 178, 0.5), rgba(108, 7, 41, 0.5)),
-  url(~assets/img/logo4.png);
+  url();
   background-size: 85%;
   color: transparent;
 }

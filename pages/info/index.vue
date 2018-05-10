@@ -9,9 +9,6 @@
         </nuxt-link>
         <br>
         </div>
-        <nuxt-link to="/info/cookies">
-        <h2 class="title">Cookie Policy</h2>
-        </nuxt-link>
         <br>
       </div>
     </div>
